@@ -1,4 +1,0 @@
-PORT = 3000
-MONGO_URI =mongodb+srv://mani7681:mani7681@storybooks.ov9hpds.mongodb.net/?retryWrites=true&w=majority
-GOOGLE_CLIENT_ID = xxxxx
-GOOGLE_CLIENT_SECRET = xxxxx
